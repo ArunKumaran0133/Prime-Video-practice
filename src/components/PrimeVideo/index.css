@@ -1,0 +1,21 @@
+.prime-video-bg-container {
+  min-height: 100vh;
+  background-color: #000000;
+  padding-bottom: 30px;
+}
+
+.prime-video-image {
+  width: 100%;
+}
+
+.movie-heading {
+  font-family: 'Roboto';
+  font-size: 25px;
+  color: white;
+  font-weight: 800;
+}
+
+.movies-container {
+  padding-left: 5%;
+  padding-right: 5%;
+}
